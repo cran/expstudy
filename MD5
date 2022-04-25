@@ -1,7 +1,7 @@
-ac3c823412552172b91869afdadfdb2c *DESCRIPTION
+a19f1732d1b95f82c614c3c3b4c55430 *DESCRIPTION
 148951ea874c9dd6d4b8473a5406ab19 *LICENSE
 85f44b3c671560527c1383757a0f746a *NAMESPACE
-f2dc6af21df7cdc8193b610a192f552b *NEWS.md
+6ae727a0f2e3deeda24db14b1c05b9f8 *NEWS.md
 3ce5d88395c5101f6972f1e5321a962f *R/add_credibility.r
 9741815f633f998b166431cfabd30f4a *R/add_metrics.R
 eee188c43db29b608515eeff7da04dc7 *R/add_proportions.R
@@ -10,7 +10,7 @@ e7c68c04c7ee2aea519a9ff25ff5a818 *R/compile_results.R
 5e4ae4a86ab54f504ef09f0b758f506d *R/expstudy-package.R
 c9297113a4e6d714465dbad0ba1f83e6 *R/expstudy.R
 f496b9a6b62d3def4e80c827dd11d0e4 *R/format_metrics.R
-77118bf57c22af159435d90bbcd51a74 *R/methods.R
+6767b53adf9c54b977231050ef7f8888 *R/methods.R
 6bedfc43b3f104ddef118f5b1cd34df3 *R/mortexp.R
 ff31a16c7d209d36bf4f6376327fbd4b *R/tbl_es.R
 79c3a641c747caa63930b383c22780b5 *R/utils.R
@@ -41,4 +41,4 @@ d342f1d0e24159b20b4c4e49f55882d0 *man/tidyeval.Rd
 86a370e77e2d14913f98fe3ecbda6ede *tests/testthat.R
 52a5fca465c0a4425dec374d2e28028e *tests/testthat/setup.R
 60a1ad5143a348ee3ed17c873af09f81 *tests/testthat/test-dplyr.R
-5697ccac3c43550863b3c5b7fa6b595d *tests/testthat/test-tidyr.R
+62431513d40ff9a15edc2adc0d527f25 *tests/testthat/test-tidyr.R

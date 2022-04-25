@@ -1,3 +1,5 @@
+# expstudy 1.0.1
+
 # expstudy 1.0.0
 
 * Added `mortexp` dataset to use for examples.
