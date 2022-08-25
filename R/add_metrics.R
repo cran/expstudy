@@ -39,8 +39,8 @@
 #'   )
 #'
 #'   # If no arguments are provided, all default metrics will be generated. This
-#'   # mostly makes sense for already aggregated expstudy objects, but can be used
-#'   # with unaggregated objects as well.
+#'   # mostly makes sense for already aggregated expstudy objects, but can be
+#'   # used with unaggregated objects as well.
 #'    es %>%
 #'      aggregate(ATTAINED_AGE) %>%
 #'      add_metrics
@@ -141,7 +141,7 @@ add_metrics <- function(
     metrics_applied <- metrics_applied %>%
       list_merge(
         name = .metric_nms[['act2expos']],
-        format = 'numeric'
+        format = 'percent'
       )
 
     metric_cols <- c(
@@ -178,7 +178,7 @@ add_metrics <- function(
     metrics_applied <- metrics_applied %>%
       list_merge(
         name = .metric_nms[['expec2expos']],
-        format = 'numeric'
+        format = 'percent'
       )
 
     metric_cols <- c(
