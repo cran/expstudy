@@ -1,7 +1,7 @@
-7e233cf6df848a0a0e152218a1cc3f2a *DESCRIPTION
+547864018979292543c1c4882892dba8 *DESCRIPTION
 148951ea874c9dd6d4b8473a5406ab19 *LICENSE
 06a57e586999558c3eb8b7b1a353185f *NAMESPACE
-2cd6239386586f97dde352983f035b30 *NEWS.md
+2711a1776e5c0ecc712ad574e1c2b8c5 *NEWS.md
 3ce5d88395c5101f6972f1e5321a962f *R/add_credibility.r
 8da21d93e6c986714754d10250dcf7d8 *R/add_metrics.R
 eee188c43db29b608515eeff7da04dc7 *R/add_proportions.R
@@ -17,7 +17,7 @@ ff31a16c7d209d36bf4f6376327fbd4b *R/tbl_es.R
 fac8b6c8b1552a56cd1dcf2a8be0ad31 *README.md
 c7183a1379841ea3027807eee4f7e28c *data/mortexp.rda
 64fb34ed1df7abb18f644a8600699b0d *man/add_credibility.Rd
-1730ce1a3be281280f76676e2a1dcf74 *man/add_metrics.Rd
+d84e24d0ecf7b11effd3d3212e5dcbc6 *man/add_metrics.Rd
 01bb07aeb90c8309cf8c1a21e227504f *man/add_proportions.Rd
 1f04d5e00aea476a685fede6809d52d6 *man/aggregate.Rd
 5cc994aa648504895f9ce37cc38b3327 *man/compile_results.Rd
@@ -41,5 +41,5 @@ e55a99cc9453c0bc1cc61d3e9f9ad85b *man/tidyeval.Rd
 86a370e77e2d14913f98fe3ecbda6ede *tests/testthat.R
 52a5fca465c0a4425dec374d2e28028e *tests/testthat/setup.R
 d0132d3dfde38bbdf0f006197886b15c *tests/testthat/test-compile_results.R
-60a1ad5143a348ee3ed17c873af09f81 *tests/testthat/test-dplyr.R
+cc176b92854fbe0698eb97bd33c4c034 *tests/testthat/test-dplyr.R
 62431513d40ff9a15edc2adc0d527f25 *tests/testthat/test-tidyr.R
